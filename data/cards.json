@@ -1,0 +1,168 @@
+[
+  {
+    "id": "marie-1",
+    "set": "swsh9",
+    "name": "玛俐",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "types": [],
+    "number": "167",
+    "rarity": "",
+    "images": {
+      "small": "media/tw00007432.png",
+      "large": "media/tw00007432.png"
+    },
+    "details": {
+      "label": "支援者卡",
+      "effect": "雙方玩家各將自己的手牌全部翻回反面並重洗，放回牌庫下方。然後，從牌庫抽卡，自己抽出5張，對手抽出4張。",
+      "rules": ["[支援者規則] 在自己的回合時，支援者卡只可使用1張。"],
+      "illustrator": "kirisAki",
+      "product": "扩充包「剑&盾」SET B"
+    }
+  },
+  {
+    "id": "marie-signed",
+    "set": "swsh9",
+    "name": "玛俐（签名卡面）",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "types": [],
+    "number": "167s",
+    "rarity": "",
+    "images": {
+      "small": "media/mary.png",
+      "large": "media/mary.png"
+    },
+    "details": {
+      "label": "支援者卡",
+      "effect": "雙方玩家各將自己的手牌全部翻回反面並重洗，放回牌庫下方。然後，從牌庫抽卡，自己抽出5張，對手抽出4張。",
+      "rules": ["[支援者規則] 在自己的回合時，支援者卡只可使用1張。"],
+      "illustrator": "kirisAki",
+      "product": "特典卡 剑&盾"
+    }
+  },
+  {
+    "id": "morpeko",
+    "set": "swsh9",
+    "name": "玛俐的莫鲁贝可",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "number": "113",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "media/tw00012625.png",
+      "large": "media/tw00012625.png"
+    },
+    "details": {
+      "label": "宝可梦·恶系",
+      "moves": [
+        {
+          "name": "扣杀轮",
+          "text": "增加这只宝可梦身上附加的恶能量的数量 ×40 点伤害。"
+        }
+      ],
+      "rules": [],
+      "illustrator": "Susumu Maeya",
+      "product": "挑战牌组 玛俐的莫鲁贝可&长毛巨魔ex"
+    }
+  },
+  {
+    "id": "sylveon-ex",
+    "set": "sv8",
+    "name": "仙子伊布 ex",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fairy"],
+    "number": "45",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "media/tw00012293.png",
+      "large": "media/tw00012293.png"
+    },
+    "details": {
+      "label": "宝可梦·妖精系",
+      "moves": [
+        {
+          "name": "太晶",
+          "text": "只要这只宝可梦在备战区，不会受到招式伤害。"
+        },
+        {
+          "name": "魔法魅惑",
+          "text": "在下个对手的回合，受到这个招式的宝可梦使用招式的伤害「-100」点。"
+        },
+        {
+          "name": "天仙石",
+          "text": "选择2只对手的备战宝可梦，将那些宝可梦与附加的卡全部放回牌库重洗。在上个自己的回合，若自己的宝可梦使出了「天仙石」，则无法使用此招式。"
+        }
+      ],
+      "rules": [],
+      "illustrator": "Cona Nitanda",
+      "product": "高级扩充包「太晶庆典ex」"
+    }
+  },
+  {
+    "id": "greninja-ex",
+    "set": "sv8",
+    "name": "甲贺忍蛙 ex",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fighting"],
+    "number": "67",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "media/tw00010723.png",
+      "large": "media/tw00010723.png"
+    },
+    "details": {
+      "label": "宝可梦·格斗系",
+      "moves": [
+        {
+          "name": "太晶",
+          "text": "只要这只宝可梦在备战区，不会受到招式伤害。"
+        },
+        {
+          "name": "希望利刃",
+          "text": "若希望，從自己的牌庫任意選擇1張卡加入手牌，並且重洗牌庫。"
+        },
+        {
+          "name": "分身连打",
+          "text": "將2個這隻寶可夢身上附加的能量丟棄，對手的2隻寶可夢各受到120點傷害。"
+        }
+      ],
+      "rules": ["[在備戰區不計算弱點・抵抗力。]"],
+      "illustrator": "akagi",
+      "product": "强化扩充包「绯红薄雾」"
+    }
+  },
+  {
+    "id": "grimmsnarl",
+    "set": "swsh9",
+    "name": "玛俐的长毛巨魔 ex",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "number": "138",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "media/tw00015991.png",
+      "large": "media/tw00015991.png"
+    },
+    "details": {
+      "label": "宝可梦·恶系",
+      "moves": [
+        {
+          "name": "「特性」庞克练肌",
+          "text": "在自己的回合，从手牌使出这张卡完成进化时，可使用1次。从自己的牌库选择最多5张「基本【恶】能量」卡，以任意方式附于自己的「玛俐的宝可梦」身上，并且重洗牌库。"
+        },
+        {
+          "name": "暗影子弹",
+          "text": "对手的1只备战宝可梦也受到30点伤害。"
+        }
+      ],
+      "rules": ["[在备战区不计算弱点・抵抗力。]"],
+      "illustrator": "Ligton",
+      "product": "高级扩充包「超级进化梦想ex」"
+    }
+  }
+]
